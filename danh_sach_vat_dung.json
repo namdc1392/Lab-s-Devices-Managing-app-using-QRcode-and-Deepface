@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "ten": "Laptop Dell",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Laptop",
+    "hinh_anh": "Laptop Dell.jpg",
+    "ban_ghi_muon": [
+      {
+        "nguoi_muon": "Phạm Văn Nam",
+        "so_luong": 1,
+        "so_dien_thoai": "0987654321",
+        "dia_chi": "Ha fNooij",
+        "ngay_muon": "2025-05-21",
+        "ngay_tra": "2025-05-27",
+        "da_tra": false,
+        "anh_nguoi_muon": "face_images\\face_20250521_133907.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ten": "Chuột Logitech",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Chuột",
+    "hinh_anh": "Chuột Logitech.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 3,
+    "ten": "Ổ điện",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Ổ điện",
+    "hinh_anh": "Ổ điện.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 4,
+    "ten": "Cáp mạng 2m",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Cáp mạng",
+    "hinh_anh": "Cáp mạng 2m.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 5,
+    "ten": "Laptop HP",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Laptop",
+    "hinh_anh": "Laptop HP.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 6,
+    "ten": "Laptop Surface 7",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Laptop",
+    "hinh_anh": "Laptop Surface 7.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 7,
+    "ten": "Bàn phím Logitech",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Bàn phím",
+    "hinh_anh": "Bàn phím Logitech.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 8,
+    "ten": "Cáp mạng 5m",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Cáp mạng",
+    "hinh_anh": "Cáp mạng 5m.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 9,
+    "ten": "Router mạng",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Router",
+    "hinh_anh": "Router mạng.jpg",
+    "ban_ghi_muon": []
+  },
+  {
+    "id": 10,
+    "ten": "Màn hình HP",
+    "trang_thai": "Có sẵn",
+    "so_luong_tong": 3,
+    "loai": "Màn hình",
+    "hinh_anh": "Màn hình HP.jpg",
+    "ban_ghi_muon": [
+      {
+        "nguoi_muon": "Phạm Văn Nam",
+        "so_luong": 1,
+        "so_dien_thoai": "0989408800",
+        "dia_chi": "Hà Nội",
+        "ngay_muon": "2025-05-21",
+        "ngay_tra": "2025-05-28",
+        "da_tra": false,
+        "anh_nguoi_muon": "face_images\\face_20250521_132517.jpg"
+      },
+      {
+        "nguoi_muon": "Đặng Ninh Giang",
+        "so_luong": 1,
+        "so_dien_thoai": "0192837465",
+        "dia_chi": "Hà Nội",
+        "ngay_muon": "2025-05-21",
+        "ngay_tra": "2025-05-28",
+        "da_tra": false,
+        "anh_nguoi_muon": "face_images\\face_20250521_132634.jpg"
+      }
+    ]
+  }
+]
