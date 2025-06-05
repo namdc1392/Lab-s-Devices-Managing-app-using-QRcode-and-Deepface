@@ -92,21 +92,21 @@ Hệ thống Quản lý Thiết bị là một ứng dụng desktop được ph�
 ## Giao diện người dùng
 
 ### Trang chủ
-![Trang chủ](app_images/trang_chủ.jpg)
+![Trang chủ](app_images/trang chủ.jpg)
 
 ### Quản lý thiết bị
-![Thêm thiết bị mới](app_images/thêm_thiết_bị_mới.jpg)
+![Thêm thiết bị mới](app_images/thêm thiết bị mới.jpg)
 
 ### Quản lý mượn/trả
-![Mượn thiết bị](app_images/mượn_thiết_bị.jpg)
-![Trả thiết bị](app_images/trả_thiết_bị.jpg)
+![Mượn thiết bị](app_images/mượn thiết bị.jpg)
+![Trả thiết bị](app_images/trả thiết bị.jpg)
 
 ### Báo cáo và thống kê
-![Tạo báo cáo](app_images/tạo_báo_cáo.jpg)
+![Tạo báo cáo](app_images/tạo báo cáo.jpg)
 
 ### Quét mã QR
-![Giao diện quét mã](app_images/giao_diện_sau_khi_bấm_nút_quét_và_sinh_mã.jpg)
-![Kết quả quét mã](app_images/sau_khi_quét_mã.jpg)
+![Giao diện quét mã](app_images/giao diện sau khi bấm nút quét và sinh mã.jpg)
+![Kết quả quét mã](app_images/sau khi quét mã.jpg)
 
 ## Cài đặt và sử dụng
 
